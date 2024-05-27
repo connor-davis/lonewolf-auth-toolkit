@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "This package adds some handy helper functions related to authentication."
 license = "GPL-3.0"
+private = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
